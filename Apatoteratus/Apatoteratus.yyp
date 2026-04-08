@@ -37,6 +37,9 @@
   "name":"Apatoteratus",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"New_Piskel__1_","path":"sprites/New_Piskel__1_/New_Piskel__1_.yy",},},
+    {"id":{"name":"New_Piskel__2_","path":"sprites/New_Piskel__2_/New_Piskel__2_.yy",},},
+    {"id":{"name":"New_Piskel_1_png","path":"sprites/New_Piskel_1_png/New_Piskel_1_png.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
   ],
   "resourceType":"GMProject",
