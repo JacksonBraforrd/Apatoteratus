@@ -17,8 +17,11 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"Object2","order":1,"path":"objects/Object2/Object2.yy",},
+    {"name":"Room2","order":16,"path":"rooms/Room2/Room2.yy",},
     {"name":"New_Piskel__1_","order":3,"path":"sprites/New_Piskel__1_/New_Piskel__1_.yy",},
     {"name":"New_Piskel__2_","order":2,"path":"sprites/New_Piskel__2_/New_Piskel__2_.yy",},
     {"name":"New_Piskel_1_png","order":1,"path":"sprites/New_Piskel_1_png/New_Piskel_1_png.yy",},
+    {"name":"Sprite6","order":2,"path":"sprites/Sprite6/Sprite6.yy",},
   ],
 }
